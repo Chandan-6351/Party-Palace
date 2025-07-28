@@ -23,8 +23,8 @@ const appData = {
             "id": 1,
             "title": "1 Hour",
             "description": "Complete birthday celebration with decorations, cake, and party setup",
-            "price": "₹ 899",
-            "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "Up to 10 guests"],
+            "price": "₹ 799",
+            "features": ["Regular Decorations", "Sound System", "Full AC Room", "Up to 10 guests"],
             "popular": false
         },
         {
@@ -39,8 +39,8 @@ const appData = {
             "id": 3,
             "title": "2 Hour",
             "description": "Professional venue for corporate meetings and team celebrations",
-            "price": "₹ 1,299",
-            "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "LED Message Box", "Some Selfie Props", "Up to 15 guests"],
+            "price": "₹ 1,199",
+            "features": ["Regular Decorations", "Sound System", "Full AC Room", "LED Message Box", "Some Selfie Props", "Up to 15 guests"],
             "popular": false
         },
         {
@@ -65,7 +65,7 @@ const appData = {
         //    "alt": "Delicious party platters and beverages",
         //    "emoji": "🍽️"
         //},
-        {
+       /* {
             "id": 3,
             "category": "Venue Spaces",
             "alt": "Main party hall with elegant lighting",
@@ -100,7 +100,7 @@ const appData = {
             "category": "Events",
             "alt": "Wedding reception setup",
             "emoji": "💒"
-        }
+        }*/
     ],
     "services": [
         {
@@ -122,7 +122,7 @@ const appData = {
     ],
     "about_highlights": [
         "Over 5 years of celebration excellence",
-        "Accommodates 10-100 guests",
+        "Accommodates 10-15 guests",
         "Full-service party planning",
         "Custom catering menus",
         "Professional decoration services",

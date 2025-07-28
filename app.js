@@ -4,18 +4,18 @@ const appData = {
         "name": "Party Palace",
         "tagline": "Where Every Celebration Becomes Unforgettable",
         "description": "Party Palace is your premier destination for memorable celebrations and gatherings. Located in the heart of the city, we specialize in creating magical moments for birthdays, anniversaries, corporate events, and special occasions.",
-        "phone": "+1 (555) 123-PARTY",
-        "email": "hello@partypalace.com",
-        "address": "123 Celebration Street, Downtown District",
-        "whatsapp": "+15551234567",
+        "phone": "+91 94271 47917",
+        "email": "partypalacehelp@gmail.com",
+        "address": "128-First Floor, Isana The Business Hub, Besides D-Mart, Pandesara - Althan, Surat, Gujarat 395017",
+        "whatsapp": "+919427147917",
         "hours": {
-            "monday": "10:00 AM - 10:00 PM",
-            "tuesday": "10:00 AM - 10:00 PM", 
-            "wednesday": "10:00 AM - 10:00 PM",
-            "thursday": "10:00 AM - 11:00 PM",
-            "friday": "10:00 AM - 12:00 AM",
-            "saturday": "9:00 AM - 12:00 AM",
-            "sunday": "9:00 AM - 10:00 PM"
+            "Monday": "10:00 AM - 10:00 PM",
+            "Tuesday": "10:00 AM - 10:00 PM", 
+            "Wednesday": "10:00 AM - 10:00 PM",
+            "Thursday": "10:00 AM - 10:00 PM",
+            "Friday": "10:00 AM - 10:00 PM",
+            "Saturday": "10:00 AM - 10:00 PM",
+            "Sunday": "10:00 AM - 10:00 PM"
         }
     },
     "offers": [
@@ -23,16 +23,16 @@ const appData = {
             "id": 1,
             "title": "Birthday Bash Package",
             "description": "Complete birthday celebration with decorations, cake, and party setup",
-            "price": "$299",
-            "features": ["Custom decorations", "Birthday cake included", "Party setup & cleanup", "Music system", "Up to 20 guests"],
+            "price": "₹ 899",
+            "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "Up to 10 guests"],
             "popular": true
         },
         {
             "id": 2,
             "title": "Corporate Event Special",
             "description": "Professional venue for corporate meetings and team celebrations",
-            "price": "$449",
-            "features": ["AV equipment", "Catering options", "Professional setup", "WiFi included", "Up to 40 guests"],
+            "price": "₹ 1,299",
+            "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "LED Message Box", "Some Selfie Props", "Up to 15 guests"],
             "popular": false
         },
         {

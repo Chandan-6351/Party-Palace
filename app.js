@@ -25,7 +25,7 @@ const appData = {
             "description": "Complete birthday celebration with decorations, cake, and party setup",
             "price": "₹ 899",
             "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "Up to 10 guests"],
-            "popular": true
+            "popular": false
         },
         {
             "id": 2,
@@ -33,7 +33,7 @@ const appData = {
             "description": "Professional venue for corporate meetings and team celebrations",
             "price": "₹ 1,299",
             "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "LED Message Box", "Some Selfie Props", "Up to 15 guests"],
-            "popular": false
+            "popular": true
         },
         {
             "id": 3,
@@ -59,12 +59,12 @@ const appData = {
             "alt": "Birthday party celebration with colorful decorations",
             "emoji": "🎂"
         },
-        {
-            "id": 2,
-            "category": "Food & Beverages",
-            "alt": "Delicious party platters and beverages",
-            "emoji": "🍽️"
-        },
+        //{
+        //    "id": 2,
+        //    "category": "Food & Beverages",
+        //    "alt": "Delicious party platters and beverages",
+        //    "emoji": "🍽️"
+        //},
         {
             "id": 3,
             "category": "Venue Spaces",

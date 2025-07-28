@@ -21,7 +21,7 @@ const appData = {
     "offers": [
         {
             "id": 1,
-            "title": "Birthday Bash Package",
+            "title": "1 Hour",
             "description": "Complete birthday celebration with decorations, cake, and party setup",
             "price": "₹ 899",
             "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "Up to 10 guests"],
@@ -29,26 +29,26 @@ const appData = {
         },
         {
             "id": 2,
-            "title": "Corporate Event Special",
+            "title": "1 Hour",
             "description": "Professional venue for corporate meetings and team celebrations",
-            "price": "₹ 1,299",
-            "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "LED Message Box", "Some Selfie Props", "Up to 15 guests"],
+            "price": "₹ 899",
+            "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "Up to 10 guests"],
             "popular": true
         },
         {
             "id": 3,
-            "title": "Anniversary Romance",
-            "description": "Intimate setting for anniversary celebrations and romantic dinners",
-            "price": "$199",
-            "features": ["Romantic ambiance", "Special menu", "Flower arrangements", "Personalized service", "Up to 10 guests"],
+            "title": "2 Hour",
+            "description": "Professional venue for corporate meetings and team celebrations",
+            "price": "₹ 1,299",
+            "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "LED Message Box", "Some Selfie Props", "Up to 15 guests"],
             "popular": false
         },
         {
             "id": 4,
-            "title": "Weekend Brunch Party",
-            "description": "Perfect for weekend celebrations with brunch menu and mimosas",
-            "price": "$349",
-            "features": ["Brunch buffet", "Complimentary mimosas", "Live music", "Garden seating", "Up to 25 guests"],
+            "title": "2 Hour",
+            "description": "Professional venue for corporate meetings and team celebrations",
+            "price": "₹ 1,299",
+            "features": ["Regular Decorations", "Cake Included", "Sound System", "Full AC Room", "LED Message Box", "Some Selfie Props", "Up to 15 guests"],
             "popular": true
         }
     ],
